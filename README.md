@@ -11,9 +11,8 @@ Kanban Board application with Authentication through JSON Web Tokens (JWTs)
   ## Installation
   - npm i to install dependency packages
   - npm run build and npm run server 
-  ## Screenshot 
-  - ! [Link to deployed application]()
-  - ! [placeholder ](/assets/employee-tracker-screencap.png)
+  ## Application 
+  - ! [Link to deployed application](https://red-kanban-board.onrender.com)
   ## Dependencies 
   - "@types/bcrypt": "^5.0.2",
   - "@types/express": "^4.17.21",
